@@ -1,0 +1,7 @@
+.container {
+  border-top: 1px solid rgba(0,0,0,0.2);
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  font-size: 18px;padding: 0 20px; text-align: center;background-color: #e2e9f0;
+}
