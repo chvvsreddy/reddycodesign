@@ -6,7 +6,7 @@ const Footer = () => {
     <div className={style.container}>
       <div className={style.cardL}>
         <h5>
-        Copyright © 2022 ReddyCodesign - All Rights Reserved.
+        Copyright © 2024 ReddyCodesign - All Rights Reserved.
         </h5>
       </div>
     </div>
